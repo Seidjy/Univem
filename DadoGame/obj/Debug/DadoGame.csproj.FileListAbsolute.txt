@@ -1,0 +1,30 @@
+c:\users\lab\documents\visual studio 2015\Projects\DadoGame\DadoGame\bin\Debug\DadoGame.exe.config
+c:\users\lab\documents\visual studio 2015\Projects\DadoGame\DadoGame\obj\Debug\DadoGame.csprojResolveAssemblyReference.cache
+c:\users\lab\documents\visual studio 2015\Projects\DadoGame\DadoGame\obj\Debug\DadoGame.Form1.resources
+c:\users\lab\documents\visual studio 2015\Projects\DadoGame\DadoGame\obj\Debug\DadoGame.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2015\Projects\DadoGame\DadoGame\obj\Debug\DadoGame.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2015\Projects\DadoGame\DadoGame\bin\Debug\DadoGame.exe
+c:\users\lab\documents\visual studio 2015\Projects\DadoGame\DadoGame\bin\Debug\DadoGame.pdb
+c:\users\lab\documents\visual studio 2015\Projects\DadoGame\DadoGame\obj\Debug\DadoGame.exe
+c:\users\lab\documents\visual studio 2015\Projects\DadoGame\DadoGame\obj\Debug\DadoGame.pdb
+C:\Users\Acer\Desktop\DadoGame\DadoGame\bin\Debug\DadoGame.exe.config
+C:\Users\Acer\Desktop\DadoGame\DadoGame\obj\Debug\DadoGame.exe
+C:\Users\Acer\Desktop\DadoGame\DadoGame\obj\Debug\DadoGame.pdb
+C:\Users\Acer\Desktop\DadoGame\DadoGame\bin\Debug\DadoGame.exe
+C:\Users\Acer\Desktop\DadoGame\DadoGame\bin\Debug\DadoGame.pdb
+C:\Users\Acer\Desktop\DadoGame\DadoGame\obj\Debug\DadoGame.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\DadoGame\DadoGame\obj\Debug\DadoGame.Form1.resources
+C:\Users\Acer\Desktop\DadoGame\DadoGame\obj\Debug\DadoGame.Properties.Resources.resources
+C:\Users\Acer\Desktop\DadoGame\DadoGame\obj\Debug\DadoGame.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\JogoDado\DadoGame\DadoGame\bin\Debug\DadoGame.exe.config
+C:\Users\Acer\Desktop\JogoDado\DadoGame\DadoGame\obj\Debug\DadoGame.exe
+C:\Users\Acer\Desktop\JogoDado\DadoGame\DadoGame\obj\Debug\DadoGame.pdb
+C:\Users\Acer\Desktop\JogoDado\DadoGame\DadoGame\bin\Debug\DadoGame.exe
+C:\Users\Acer\Desktop\JogoDado\DadoGame\DadoGame\bin\Debug\DadoGame.pdb
+C:\Users\Acer\Desktop\JogoDado\DadoGame\DadoGame\obj\Debug\DadoGame.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\JogoDado\DadoGame\DadoGame\obj\Debug\DadoGame.Form1.resources
+C:\Users\Acer\Desktop\JogoDado\DadoGame\DadoGame\obj\Debug\DadoGame.Properties.Resources.resources
+C:\Users\Acer\Desktop\JogoDado\DadoGame\DadoGame\obj\Debug\DadoGame.csproj.GenerateResource.Cache
+C:\Users\Acer\Source\Repos\Univem2\DadoGame\bin\Debug\DadoGame.exe.config
+C:\Users\Acer\Source\Repos\Univem2\DadoGame\obj\Debug\DadoGame.exe
+C:\Users\Acer\Source\Repos\Univem2\DadoGame\obj\Debug\DadoGame.pdb
